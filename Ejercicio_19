@@ -1,0 +1,9 @@
+Frase1=prompt("Ingrese una  vocal ");
+Frase=Frase1.length
+if(Frase==1 && (Frase1=="a"||Frase1=="e"||Frase1=="i"||Frase1=="o"||Frase1=="u")){
+     
+     console.log(("Es vocal"))
+     
+  }else{
+     console.log("Ingreso mas de un caracter")
+  }

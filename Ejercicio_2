@@ -1,0 +1,3 @@
+A=parseFloat(prompt("Ingrese un numero decimal"));
+b=prompt("Ingrese un numero Entero");
+Resultado= "El resultado de la suma es :"+ " "+(A+parseFloat(b));

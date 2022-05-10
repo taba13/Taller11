@@ -1,0 +1,2 @@
+a=parseFloat(prompt("Ingrese el primer numero"));
+"Descontado el  15% queda "+(a-a*15/100);

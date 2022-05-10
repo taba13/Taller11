@@ -1,0 +1,5 @@
+a=parseInt(prompt("Ingrese un numero"));
+b=parseInt(prompt("Ingrese un numero "));
+Resultado=(a+b);
+c=parseInt(prompt("Ingrese un numero "));
+final=Resultado*3

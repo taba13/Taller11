@@ -1,0 +1,5 @@
+Frase=prompt("Ingrese la frase");
+Frase=Frase.length
+n=(Frase % 2);
+n==0;
+ 

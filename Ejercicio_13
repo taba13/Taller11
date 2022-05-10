@@ -1,0 +1,9 @@
+edad=parseInt(prompt("Ingrese su edad"));
+cantidada=parseInt(prompt("Ingrese la cantidad de articulos"));
+ 
+if (edad>=18 && cantidada>1) {
+   true
+} else {
+   false
+}
+ 

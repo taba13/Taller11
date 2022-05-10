@@ -1,0 +1,14 @@
+Frase1=prompt("Ingrese el nombre ");
+Frase2=prompt("Ingrese  el nombre");
+stringLength=Frase1.length
+stringLength2=Frase2.length
+Frase1=Frase1.charAt(0)
+ultima1=Frase1.charAt(stringLength - 1);
+Frase2=Frase2.charAt(0)
+ultima2=Frase2.charAt(stringLength2 - 1);
+if(Frase1==Frase2 ||ultima1==ultima2 ){
+     true
+     
+  }else{
+     false
+  }

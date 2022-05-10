@@ -1,0 +1,4 @@
+a=parseFloat(prompt("Ingrese el primer numero"));
+b=parseFloat(prompt("Ingrese el segundo numero "));
+c=parseFloat(prompt("Ingrese el tercer numero "));
+resultado=parseFloat((a+b+c)/3)

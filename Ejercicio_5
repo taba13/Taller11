@@ -1,0 +1,2 @@
+b=parseFloat(prompt("Ingrese la temperatura Fahrenheit "));
+Resultado="La temperatura es  "+ parseFloat((5/9)*(b-32));

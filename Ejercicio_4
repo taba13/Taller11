@@ -1,0 +1,3 @@
+a=parseInt(prompt("Ingrese cantidad de  Kilometros recorridos"));
+b=parseFloat(prompt("Ingrese cantidad de litros de combustible "));
+consumo="El consumo por Kilometros es de  " + parseFloat(a/b);

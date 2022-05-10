@@ -1,0 +1,10 @@
+Frase1=prompt("Ingrese la frase");
+Frase2=prompt("Ingrese la frase");
+Frase1=Frase1.length
+Frase2=Frase2.length
+if(Frase1<Frase2){
+     true
+     
+  }else{
+     false
+  }
